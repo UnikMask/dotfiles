@@ -1,0 +1,57 @@
+; vim:ft=dosini
+
+[module/dspec0]
+type = custom/text
+content = ""
+content-font = 3
+content-foreground = ${colors.green}
+content-background = ${colors.background}
+
+[module/dspec1]
+type = custom/text
+content = ""
+content-font = 3
+content-foreground = ${colors.black}
+content-background = ${colors.green}
+
+[module/dspec3]
+type = custom/text
+content = ""
+content-font = 3
+content-foreground = ${colors.black}
+content-background = ${colors.green}
+
+[module/dspec6]
+type = custom/text
+content = ""
+content-font = 3
+content-foreground = ${colors.green}
+content-background = ${colors.background}
+
+[module/dspec]
+type = custom/text
+content = " "
+content-font = 3
+content-foreground = ${colors.background-alt}
+content-background = ${colors.green}
+
+[module/sep]
+type = custom/text
+content = ""
+content-font = 3
+content-foreground = ${colors.background-alt}
+content-background = ${colors.background}
+
+[module/sepr]
+type = custom/text
+content = ""
+content-font = 3
+content-foreground = ${colors.background-alt}
+content-background = ${colors.background}
+
+[module/sepl]
+type = custom/text
+content = ""
+content-font = 3
+content-foreground = ${colors.background-alt}
+content-background = ${colors.background}
