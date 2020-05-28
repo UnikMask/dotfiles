@@ -1,5 +1,4 @@
-Dotfiles
---------
+# Dotfiles
 
 My Doom-themed linux desktop configuration. I cannot guarantee it works first try, 
 as an environment implies many hidden and not necessarily evident dependencies, but I hope
